@@ -1,4 +1,3 @@
-// App.jsx
 import React, { useState } from 'react';
 import ComboBox from './components/ComboBox';
 import DispositivosGrid from './components/Grid';
