@@ -1,5 +1,5 @@
 import clienteAxios from "../util/clientAxios";
-import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
+import { useQuery } from "@tanstack/react-query";
 
 
 const fetchBodegas = async () => {
